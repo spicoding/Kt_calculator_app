@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator Morning</string>
+    <string name="enter_the_first_number">Enter the First Number</string>
+    <string name="enter_the_second_number">Enter The Second Number</string>
+    <string name="button">Button</string>
+    <string name="sms">SMS</string>
+    <string name="call">CALL</string>
+    <string name="camera">Camera</string>
+    <string name="share">Share</string>
+    <string name="stk">STK</string>
+    <string name="dial">Dial</string>
+    <string name="intent_page">Intent Page</string>
+    <string name="calculator">Calculator</string>
+    <string name="intent">Intent</string>
+    <string name="web">Web</string>
+    <string name="answer_here">Answer Here</string>
+</resources>
